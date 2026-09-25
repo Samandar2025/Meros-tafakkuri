@@ -1,0 +1,6 @@
+{
+  "name": "EduSync: Neyro-ijtimoiy Integratsiya Platformasi",
+  "description": "Ota-ona, o‘qituvchi va psixologni yagona AI-ekotizimda birlashtiruvchi, o'quvchining psixologik holati va kasbiy moyilligini boshqarish platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
